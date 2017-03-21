@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385576381624",
+    "firebase_url": "https://fir-test-92028.firebaseio.com",
+    "project_id": "fir-test-92028",
+    "storage_bucket": "fir-test-92028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385576381624:android:6709f6f5fd286ec0",
+        "android_client_info": {
+          "package_name": "com.ramnarayanan.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385576381624-m2lpat166qk157u4gto0m6hf6013p05j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcR1glL6EvlEBNN01BnnSd7ZYkYLH4oKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
